@@ -25,3 +25,10 @@ yarn install
 npm run dev
 ```
 Open http://localhost:5173
+
+## Technologies Used
+- Svelte – Core frontend framework
+- Vite – Development server and build tool
+- Tailwind CSS  – Styling
+- FontAwesome – Icons
+- Roboto - Font
